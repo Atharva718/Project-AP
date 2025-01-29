@@ -66,7 +66,7 @@ Start the Development Server:
 npm run dev
 
 Access the Application:
-Open your browser and navigate to http://localhost:3000
+Open your browser and navigate 
 
 Project Architecture
 
@@ -80,7 +80,7 @@ Controllers: Manage requests and responses, ensuring smooth interaction between 
 
 Deployment
 
-The project is live and accessible at Wanderlust Web App.
+The project is live and accessible at Render
 
 Future Improvements
 
